@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-paper-js",
+  "version": "1.0.0",
+  "description": "paper js sample",
+  "author": "piroz",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "bootstrap-vue": "^2.0.0-rc.11",
+    "nuxt": "^2.0.0",
+    "paper": "^0.12.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
