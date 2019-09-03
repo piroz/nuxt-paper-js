@@ -2,6 +2,8 @@
 
 > paper js sample
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/piroz/nuxt-paper-js)
+
 ## Build Setup
 
 ``` bash

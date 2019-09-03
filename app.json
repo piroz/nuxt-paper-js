@@ -1,0 +1,12 @@
+{
+  "name": "nuxt-paper-js",
+  "description": "paper js sample",
+  "repository": "https://github.com/piroz/nuxt-paper-js",
+  "logo": "https://ja.nuxtjs.org/logos/nuxt-icon.png",
+  "keywords": ["nuxt"],
+  "env": {
+    "NPM_CONFIG_PRODUCTION": "false",
+    "HOST": "0.0.0.0",
+    "NODE_ENV": "production"
+  }
+}
